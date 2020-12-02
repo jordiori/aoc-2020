@@ -1,6 +1,7 @@
 import pytest
 
-import exercise
+import exercise_part1
+import exercise_part2
 
 @pytest.mark.parametrize(
     ('input', 'expected'),
@@ -8,5 +9,15 @@ import exercise
         # test cases
     ),
 )
-def test_solve(input: str, expected: int) -> None:
-    assert exercise.solve(input) == expected
+def test_solve_part1(input: str, expected: int) -> None:
+    assert exercise_part1.solve(input) == expected
+
+
+@pytest.mark.parametrize(
+    ('input', 'expected'),
+    (
+        # test cases
+    ),
+)
+def test_solve_part2(input: str, expected: int) -> None:
+    assert exercise_part2.solve(input) == expected
