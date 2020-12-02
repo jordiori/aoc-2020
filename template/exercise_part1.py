@@ -1,7 +1,7 @@
 import argparse
 
 
-def solve(input: str) -> int:
+def solve(input_txt: str) -> int:
     """Solve exercise."""
     # write your magic solution here!
 
