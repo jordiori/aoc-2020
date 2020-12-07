@@ -7,7 +7,7 @@
 - [Day 04](https://adventofcode.com/2020/day/4) :star: :star:
 - [Day 05](https://adventofcode.com/2020/day/5) :star: :star:
 - [Day 06](https://adventofcode.com/2020/day/6) :star: :star:
-- Day 07
+- [Day 07](https://adventofcode.com/2020/day/7) :star: :star:
 - Day 08
 - Day 09
 - Day 10
