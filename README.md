@@ -14,7 +14,7 @@
 - [Day 11](https://adventofcode.com/2020/day/11) :star: :star:
 - [Day 12](https://adventofcode.com/2020/day/12) :star: :star:
 - [Day 13](https://adventofcode.com/2020/day/13) :star:
-- Day 14
+- [Day 14](https://adventofcode.com/2020/day/14) :star: :star:
 - Day 15
 - Day 16
 - Day 17
